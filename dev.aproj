@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="sciterjs.dev.view" libEmbed="true" icon="..." ui="win" output="SciterJsDevView.exe" CompanyName="veluxa" FileDescription="sciterjs.dev.view" LegalCopyright="Copyright (C) veluxa 2021" ProductName="sciterjs.dev.view" InternalName="sciterjs.dev.view" FileVersion="0.0.0.15" ProductVersion="0.0.0.15" publishDir="/dist/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true" local="false" ignored="false"/>
+	<folder name="窗体文件" path="dlg" comment="目录" embed="true" local="false" ignored="false"/>
+</project>
